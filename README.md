@@ -332,8 +332,8 @@ JARVIS/
 
 ---
 
-*Desenvolvido com ❤️ para o TCC da ETEC Bento Quirino*
+*Em desenvolvimento*
 
 **Versão**: 0.8 - Arduino Integration  
 **Última Atualização**: Setembro 2025  
-**Status**: ✅ Concluído
+**Status**: ⚙️Desenvolvimento
